@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home_text"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/noodle"
+        android:title="@string/noodle_text" >
+        <menu >
+            <item
+                android:id="@+id/soba1"
+                android:title="@string/soba1_text" />
+            <item
+                android:id="@+id/soba2"
+                android:title="@string/soba2_text" />
+            <item
+                android:id="@+id/ramen1"
+                android:title="@string/ramen1_text" />
+        </menu>
+    </item>
+</menu>

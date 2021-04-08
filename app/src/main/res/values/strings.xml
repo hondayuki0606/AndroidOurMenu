@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Our Menu</string>
+    <string name="home_text">ホーム</string>
+    <string name="noodle_text">麺類</string>
+    <string name="soba1_text">ぶっかけそば</string>
+    <string name="soba2_text">おろしそば</string>
+    <string name="ramen1_text">醤油ラーメン</string>
+</resources>
