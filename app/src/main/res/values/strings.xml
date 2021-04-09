@@ -5,4 +5,6 @@
     <string name="soba1_text">ぶっかけそば</string>
     <string name="soba2_text">おろしそば</string>
     <string name="ramen1_text">醤油ラーメン</string>
+    <string name="mail_text">メールする</string>
+    <string name="sms_text">SMSする</string>
 </resources>
